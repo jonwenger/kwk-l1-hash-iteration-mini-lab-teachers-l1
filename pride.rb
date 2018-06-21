@@ -19,6 +19,6 @@ length = length - 1
 colors = [:light_blue, :light_yellow, :red, :magenta, :light_green]
 
 puts "#{person.colorize(colors.sample)}! If you don't like that, try wearing is going to wear #{dress}"
-sleep(2)
+sleep(1.6)
 
 end 
